@@ -1,7 +1,6 @@
 [submodule "bash"]
 	path = bash
 	url = git@github.com:grbll/bash.git
-  branch = origin
 [submodule "texmf"]
 	path = texmf
 	url = git@github.com:grbll/texmf.git
